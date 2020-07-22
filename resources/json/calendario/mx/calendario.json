@@ -1,0 +1,1034 @@
+{
+    "sabatino": {
+        "meses": [
+            "enero",
+            "febrero"
+        ],
+        "cursos": [
+            {
+                "titulo": "Diplomado en Dirección de Proyectos",
+                "duracion": 42,
+                "mes": 0,
+                "dia": "26",
+                "curso": "ddp",
+                "categoria": 1
+            },
+            {
+                "titulo": "Taller de Preparación para la Certificación PMP<sup>&reg;</sup>",
+                "duracion": 36,
+                "mes": 0,
+                "dia": "19",
+                "curso": "taller",
+                "categoria": 1
+            },
+            {
+                "titulo": "Scrum Master Certified (SMC™)",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "26",
+                "curso": "scrumMas",
+                "categoria": 2
+            },
+            {
+                "titulo": "Scrum Product Owner Certified (SPOC™)",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "19",
+                "curso": "scrumProd",
+                "categoria": 2
+            },
+            {
+                "titulo": "TOGAF<sup>&reg;</sup> I",
+                "duracion": 24,
+                "mes": 0,
+                "dia": "19",
+                "curso": "togaf",
+                "categoria": 3
+            },
+            {
+                "titulo": "Business Process Model and Notation (BPMN™)",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "19",
+                "curso": "bpmn",
+                "categoria": 3
+            },
+            {
+                "titulo": "Liderazgo Metodologia Lego Serious Play",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "12",
+                "curso": "liderazgo",
+                "categoria": 4
+            },
+            {
+                "titulo": "Comunicación Efectiva",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "05",
+                "curso": "",
+                "categoria": 4
+            },
+            {
+                "titulo": "Core Solutions of Microsoft SharePoint Server 2013",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "19",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Monitoring and Operating a Private Cloud with System Center 2012",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "19",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Installing and Configuring Windows 10",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "26",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Planning And Administering SharePoint 2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "26",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Querying Data with Transact-SQL-2016",
+                "duracion": 21,
+                "mes": 0,
+                "dia": "26",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Administering a SQL Database Infrastructure-2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "12",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Querying Microsoft SQL Server",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "19",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Programming in HTML5 with JavaScript and CSS3",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "19",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Developing Microsoft SharePoint Server 2013 Core Solutions",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "26",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Installation, Storage, and Compute with Windows Server 2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "19",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Excel Nivel Básico",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "05",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Excel Nivel Intermedio",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "12",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Excel Nivel Avanzado",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "19",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Diplomado en Dirección de Proyectos",
+                "duracion": 42,
+                "mes": 1,
+                "dia": "23",
+                "curso": "ddp",
+                "categoria": 1
+            },
+            {
+                "titulo": "Taller de Preparación para la Certificación PMP<sup>&reg;</sup>",
+                "duracion": 36,
+                "mes": 1,
+                "dia": "09",
+                "curso": "taller",
+                "categoria": 1
+            },
+            {
+                "titulo": "Fundamentos en Dirección de Proyectos",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "02",
+                "curso": "fundamentos",
+                "categoria": 1
+            },
+            {
+                "titulo": "Scrum Master Certified (SMC™)",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "23",
+                "curso": "scrumMas",
+                "categoria": 2
+            },
+            {
+                "titulo": "Scrum Developer Certified (SDC™)",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "02",
+                "curso": "scrumDev",
+                "categoria": 2
+            },
+            {
+                "titulo": "COBIT5® Foundation",
+                "duracion": 24,
+                "mes": 1,
+                "dia": "02",
+                "curso": "cobit5",
+                "categoria": 3
+            },
+            {
+                "titulo": "TOGAF<sup>&reg;</sup> II",
+                "duracion": 24,
+                "mes": 1,
+                "dia": "09",
+                "curso": "togaf",
+                "categoria": 3
+            },
+            {
+                "titulo": "Análisis de Negocio (PMI-PBA)<sup>&reg;</sup>",
+                "duracion": 36,
+                "mes": 1,
+                "dia": "16",
+                "curso": "analisis",
+                "categoria": 3
+            },
+            {
+                "titulo": "Empoderamiento de Ventas",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "09",
+                "curso": "empoderamiento",
+                "categoria": 4
+            },
+            {
+                "titulo": "Power Point Nivel Básico",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "02",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Power Point Nivel Intermedio",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "09",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Word Nivel Básico",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "16",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Installing and Configuring Windows Server 2012",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "09",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Advanced Solutions of Microsoft SharePoint Server 2013",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "16",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Configuring and Deploying a Private Cloud with System Center 2012",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "23",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Deploying and Managing Windows 10 Using Enterprise Services",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "09",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Advanced Technologies of SharePoint 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "09",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Administering Microsoft Exchange Server 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "09",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Developing SQL Databases 2016",
+                "duracion": 28,
+                "mes": 1,
+                "dia": "09",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Administering a SQL Database Infrastructure - 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "23",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Developing Microsoft SharePoint Server 2013 Advanced Solutions",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "09",
+                "curso": "",
+                "categoria": 5
+            }
+        ]
+    },
+    "semanal": {
+        "meses": [
+            "enero",
+            "febrero"
+        ],
+        "cursos": [
+            {
+                "titulo": "Diplomado en Dirección de Proyectos",
+                "duracion": 42,
+                "mes": 0,
+                "dia": "21",
+                "curso": "ddp",
+                "categoria": 1
+            },
+            {
+                "titulo": "Project Management Office (PMO)",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "28",
+                "curso": "pmo",
+                "categoria": 1
+            },
+            {
+                "titulo": "Fundamentos en Dirección de Proyectos",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "14",
+                "curso": "fundamentos",
+                "categoria": 1
+            },
+            {
+                "titulo": "Scrum Master Certified (SMC™)",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "14",
+                "curso": "scrumMas",
+                "categoria": 2
+            },
+            {
+                "titulo": "Scrum Product Owner Certified (SPOC™)",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "28",
+                "curso": "scrumProd",
+                "categoria": 2
+            },
+            {
+                "titulo": "TOGAF<sup>&reg;</sup> I",
+                "duracion": 24,
+                "mes": 0,
+                "dia": "28",
+                "curso": "togaf",
+                "categoria": 3
+            },
+            {
+                "titulo": "TOGAF<sup>&reg;</sup> II",
+                "duracion": 24,
+                "mes": 0,
+                "dia": "31",
+                "curso": "togaf",
+                "categoria": 3
+            },
+            {
+                "titulo": "Business Process Model and Notation (BPMN™)",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "14",
+                "curso": "bpmn",
+                "categoria": 3
+            },
+            {
+                "titulo": "Liderazgo Metodologia Lego Serious Play®",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "28",
+                "curso": "liderazgo",
+                "categoria": 4
+            },
+            {
+                "titulo": "Comunicación Efectiva",
+                "duracion": 16,
+                "mes": 0,
+                "dia": "21",
+                "curso": "",
+                "categoria": 4
+            },
+            {
+                "titulo": "Excel Nivel Básico",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "21",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Excel Nivel Intermedio",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "22",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Excel Nivel Avanzado",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "22",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Power Point Nivel Básico",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "24",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Power Point Nivel Intermedio",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "25",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Word Nivel Básico",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "28",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Word Nivel Intermedio",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "29",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Word Nivel Avanzado",
+                "duracion": 8,
+                "mes": 0,
+                "dia": "30",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Installing and Configuring Windows Server 2012",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "07",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Administering Windows Server 2012",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "21",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Core Solutions of Microsoft SharePoint Server 2013",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "14",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Advanced Solutions of Microsoft SharePoint Server 2013",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "28",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Monitoring and Operating a Private Cloud with System Center 2012",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "14",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Configuring and Deploying a Private Cloud with System Center 2012",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "28",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Installing and Configuring Windows 10",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "21",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Planning And Administering SharePoint 2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "14",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Advanced Technologies of SharePoint 2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "28",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Administering Microsoft Exchange Server 2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "21",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Querying Data with Transact-SQL - 2016",
+                "duracion": 21,
+                "mes": 0,
+                "dia": "02",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Developing SQL Databases 2016",
+                "duracion": 28,
+                "mes": 0,
+                "dia": "16",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Administering a SQL Database Infrastructure - 2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "28",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Querying Microsoft SQL Server",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "07",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Administering Microsoft SQL Server Databases",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "21",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Programming in HTML5 with JavaScript and CSS3",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "07",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Programming in C#",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "21",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Installation, Storage, and Compute with Windows Server 2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "14",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Networking with Windows Server 2016",
+                "duracion": 35,
+                "mes": 0,
+                "dia": "28",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Diplomado en Dirección de Proyectos",
+                "duracion": 42,
+                "mes": 1,
+                "dia": "11",
+                "curso": "ddp",
+                "categoria": 1
+            },
+            {
+                "titulo": "Taller de Preparación para la Certificación PMP<sup>&reg;</sup>",
+                "duracion": 36,
+                "mes": 1,
+                "dia": "25",
+                "curso": "taller",
+                "categoria": 1
+            },
+            {
+                "titulo": "Microsoft Project Básico - Intermedio",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "04",
+                "curso": "project",
+                "categoria": 1
+            },
+            {
+                "titulo": "Microsoft Project Avanzado",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "06",
+                "curso": "",
+                "categoria": 1
+            },
+            {
+                "titulo": "Gestión de Requerimientos",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "18",
+                "curso": "",
+                "categoria": 1
+            },
+            {
+                "titulo": "Scrum Master Certified (SMC™)",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "11",
+                "curso": "scrumMas",
+                "categoria": 2
+            },
+            {
+                "titulo": "Scrum Developer Certified (SDC™)",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "05",
+                "curso": "scrumDev",
+                "categoria": 2
+            },
+            {
+                "titulo": "COBIT5® Foundation",
+                "duracion": 24,
+                "mes": 1,
+                "dia": "05",
+                "curso": "scrumDev",
+                "categoria": 3
+            },
+            {
+                "titulo": "Análisis de Negocio (PMI-PBA)<sup>&reg;</sup>",
+                "duracion": 36,
+                "mes": 1,
+                "dia": "18",
+                "curso": "analisis",
+                "categoria": 3
+            },
+            {
+                "titulo": "Empoderamiento de Ventas",
+                "duracion": 16,
+                "mes": 1,
+                "dia": "18",
+                "curso": "empoderamiento",
+                "categoria": 4
+            },
+            {
+                "titulo": "Excel Nivel Básico",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "11",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Excel Nivel Intermedio",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "12",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Excel Nivel Avanzado",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "13",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Power Point Nivel Básico",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "14",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Power Point Nivel Intermedio",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "15",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Word Nivel Básico",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "18",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Word Nivel Intermedio",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "19",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Word Nivel Avanzado",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "20",
+                "curso": "ofimatica",
+                "categoria": 6
+            },
+            {
+                "titulo": "Outlook Nivel Básico",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Outlook Nivel Intermedio",
+                "duracion": 8,
+                "mes": 1,
+                "dia": "26",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Installing and Configuring Windows Server 2012",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Administering Windows Server 2012",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Configuring Advanced Windows Server 2012 Services",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Core Solutions of Microsoft SharePoint Server 2013",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Advanced Solutions of Microsoft SharePoint Server 2013",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Monitoring and Operating a Private Cloud with System Center 2012",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Configuring and Deploying a Private Cloud with System Center 2012",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Installing and Configuring Windows 10",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Deploying and Managing Windows 10 Using Enterprise Services",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Planning And Administering SharePoint 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Advanced Technologies of SharePoint 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Administering Microsoft Exchange Server 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Designing and Deploying Microsoft Exchange Server 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Querying Data with Transact-SQL - 2016",
+                "duracion": 21,
+                "mes": 1,
+                "dia": "06",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Developing SQL Databases 2016",
+                "duracion": 28,
+                "mes": 1,
+                "dia": "20",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Querying Microsoft SQL Server",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Administering Microsoft SQL Server Databases",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Implementing a Data Warehouse with Microsoft SQL Server",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Programming in HTML5 with JavaScript and CSS3",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Programming in C#",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Developing ASP. NET MVC 4 Web Applications",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 5
+            },
+            {
+                "titulo": "Developing Windows Azure and Web Services",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Installation, Storage, and Compute with Windows Server 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Networking with Windows Server 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "25",
+                "curso": "",
+                "categoria": 6
+            },
+            {
+                "titulo": "Identity with Windows Server 2016",
+                "duracion": 35,
+                "mes": 1,
+                "dia": "11",
+                "curso": "",
+                "categoria": 6
+            } 
+        ]
+    },
+    "especial": {
+        "meses": [
+            "enero",
+            "febrero"
+        ],
+        "cursos": [
+            {
+                "titulo": "Diplomado en Dirección de Proyectos",
+                "duracion": 42,
+                "mes": 1,
+                "dia": "05",
+                "curso": "ddp",
+                "categoria": 1
+            } 
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "categoria": "Mejores Prácticas de Negocio y TI",
+    "curso": "Business Process Model and Notation (BPMN™)",
+    "objetivo": "A través de este curso, conocerás las mejores prácticas de los elementos más usados en el Modelado de Procesos de Negocios, de acuerdo al estándar Business Process Model and Notation (BPMN™).",
+    "dirigido": "Líderes de Procesos y otros miembros del Equipo de Manejo de Procesos, Consultores y Entrenadores de Procesos, Ingenieros de Sistemas, Ingenieros Industriales, Estudiantes y Miembros del Equipo de Calidad.",
+    "modalidad": "<p>&bull;&nbsp;Presencial <br><span>(Horarios flexibles en las instalaciones de MASPM<sup>&reg;</sup>)</span></p><p>&bull;&nbsp;Remota <br><span>(Clases en vivo vía streaming)</span></p>",
+    "duración": "30",
+    "pdus": "0",
+    "proximasFechas": "Enero 14 y 19",
+    "cursosRelacionados": "<ul><li><a href='curso.php?curso=analisisNegocio'>Análisis de Negocio (PMI-PBA)<sup>&reg;</sup></a></li><li><a href='curso.php?curso=togaf'>TOGAF<sup>&reg;</sup></a></li></ul>"
+}

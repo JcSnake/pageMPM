@@ -1,0 +1,36 @@
+.uk-navbar-brand, .uk-navbar-content,.uk-navbar-toggle {
+    height:70px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.uk-navbar .uk-navbar-nav > li > a {
+    cursor: pointer;
+    text-align: center;
+    height: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.uk-navbar-nav > li {
+    float: left;
+    position: relative;
+    border-right: 1px solid var(--cyan-light-color);
+}
+
+.uk-h3 {
+    color: var(--white-color) !important;
+}
+
+.uk-navbar-nav > li.uk-active > a {
+    color: var(--hover-color) !important;
+    background-color: var(--white-color) !important;
+}
+
+.uk-navbar-toggle {
+    font-size: 24px;
+    color: #444;
+    text-decoration: none;
+}

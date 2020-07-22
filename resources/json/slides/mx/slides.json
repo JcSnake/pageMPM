@@ -1,0 +1,43 @@
+{
+    "slides": [
+        {
+            "titulo": "Diplomado en Dirección de Proyectos",
+            "fecha": "09 de Febrero",
+            "descripcion": "Ejecuta proyectos de forma eficiente y efectiva bajo la certificación de Project Management Professional (PMP)<sup>&reg;</sup>.",
+            "duracion": 42,
+            "pdus": 38,
+            "accion": "ddp"
+        },
+        {
+            "titulo": "Taller de Preparación para la Certificación PMP<sup>&reg;</sup>",
+            "fecha": "19 de Enero y 09 de Febrero",
+            "descripcion": "Certificate como Project Management Professional<sup>&reg;</sup> por el Project management Institute<sup>&reg;</sup>, evaluaciones complementadas en un simulador.",
+            "duracion": 36,
+            "pdus": 35,
+            "accion": "taller"
+        },
+        {
+            "titulo": "Scrum Master Certified (SMC™)",
+            "fecha": "26 de Enero",
+            "descripcion": "Comprende la metodología SCRUM<sup>&reg;</sup>  y su influencia, alcanza metas, adquiere conocimiento ágil en dirección de proyectos",
+            "duracion": 16,
+            "pdus": 15,
+            "accion": "scrumMas"
+        },
+        {
+            "titulo": "Taller de Liderazgo",
+            "fecha": "12 de Enero",
+            "descripcion": "Desarrolla las habilidades para  dar un impulso a tu carrera profesional y convertirte en un líder con la preparación adecuada. Motiva, guía y alcanza metas.",
+            "duracion": 16,
+            "pdus": 15,
+            "accion": "liderazgo"
+        },
+        {
+            "titulo": "BPMN™",
+            "fecha": "14 y 19 de Enero",
+            "descripcion": "Conocer las reglas y las mejores prácticas de los elementos más usados de BPMN™ (Business Process Model and Notation)",
+            "duracion": 30,
+            "accion": "bpmn"
+        }
+    ]
+}

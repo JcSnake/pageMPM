@@ -1,0 +1,11 @@
+{
+    "categoria": "Dirección de Proyectos",
+    "curso": "Diplomado en Dirección de Proyectos",
+    "objetivo": "A través de este curso teórico-práctico conocerás los actuales 49 procesos contenidos en el PMBOK<sup>&reg;</sup> Sixth Edition, creando y llenando los principales formatos de un proyecto aplicado a un caso práctico, sirviendo como base para las certificaciones PMP<sup>&reg;</sup> o CAPM<sup>&reg;</sup>.",
+    "dirigido": "Toda persona con o sin experiencia que esté interesada en conocer y aprender las mejores prácticas en Gestión y Dirección de Proyectos, de acuerdo a la metodología del Project Management Institute (PMI)<sup>&reg;</sup>.",
+    "modalidad": "<p>&bull;&nbsp;Presencial <br><span>(Horarios flexibles en las instalaciones de MASPM<sup>&reg;</sup>)</span></p><p>&bull;&nbsp;Remota <br><span>(Clases en vivo vía streaming)</span></p>",
+    "duración": "42",
+    "pdus": "38",
+    "proximasFechas": "Enero 21 y 26 <br>Febrero 11 y 23",
+    "cursosRelacionados": "<ul><li><a href='curso.php?curso=taller'>Taller de Preparación para la Certificación PMP<sup>&reg;</sup></a></li><li><a href='contacto.php'>Herramientas de Dirección de Proyectos</a></li><li><a href='contacto.php'>Project Management Office (PMO)</a></li><li><a href='curso.php?curso=scrumMas'>Scrum Master Certified (SMC™)</a></li>"
+}

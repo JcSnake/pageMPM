@@ -1,0 +1,11 @@
+{
+    "categoria": "Mejores Prácticas",
+    "curso": "ITIL",
+    "descripcion": "ITIL® Se basa en principios universales de calidad y por esto cada vez son más los directivos de las organizaciones que están exigiendo a los CIOs (Chief Information Officer) que tengan un Modelo de Gobernabilidad de TI con el objetivo de tener información a través de controles y estructuras que les aseguren que el área TI está actuando como soporte de las estrategias del negocio y no como un silo. Sin una mejor Práctica como la Gestión de Servicio de TI, estos modelos no pueden funcionar de una manera eficiente. Por un lado, la Gestión de Servicios es clave para la Gobernabilidad de TI, porque se integra a los objetivos del negocio y hacen que los indicadores y controles sean confiables.",
+    "objetivo": "Proporcionar a los participantes los fundamentos que los ayuden a familiarizarse con los métodos y conceptos ITIL® (Information Technologies Infrastructure Library).",
+    "dirigido": "Gerente TI Arquitectos de Aplicaciones Líderes de Proyecto Business Analyst Analistas de Sistemas Consultores de seguridad Consultores de Seguridad de Aplicaciones Profesionales de TI",
+    "modalidad": "<ul class='uk-width-1-3 uk-container-center'><li>Presencial</li><li>Live online</li></ul>",
+    "duración": "24",
+    "pdus": "18",
+    "cursosRelacionados": "<ul class='uk-text-center uk-width-3-4 uk-container-center'><li>ITIL<sup>&reg;</sup> Service Offerings & Agreements (SOA)</li><li>ITIL<sup>&reg;</sup> Operational Support & Analysis (OSA)</li><li>ITIL<sup>&reg;</sup> Release, Control & Validation (RCV)</li><li>ITIL<sup>&reg;</sup> Planning, Protection & Optimization (PPO)</li></ul>"
+}

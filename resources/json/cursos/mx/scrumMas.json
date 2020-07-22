@@ -1,0 +1,11 @@
+{
+    "categoria": "Dirección de Proyectos Ágil",
+    "curso": "Scrum Master (SMC™)",
+    "objetivo": "Conocer los conceptos, procesos y ciclo de vida de Scrum, aplicando las principales actividades del método ágil, haciendo mayor énfasis en el rol de Scrum Master Certified (SMC™).",
+    "dirigido": "Dirigido a aquellas personas que deseen conocer o formen parte del equipo Scrum.",
+    "modalidad": "<p>&bull;&nbsp;Presencial <br><span>(Horarios flexibles en las instalaciones de MASPM<sup>&reg;</sup>)</span></p><p>&bull;&nbsp;Remota <br><span>(Clases en vivo vía streaming)</span></p><p>&bull;&nbsp;On-line <br>(Curso completo en línea)</span></p>",
+    "duración": "16",
+    "pdus": "15",
+    "proximasFechas": "Enero 14 y 16 <br>Febrero 11 y 23",
+    "cursosRelacionados": "<ul><li><a href='curso.php?curso=scrumDev'>Scrum Developer Certified (SDC™)</a></li><li><a href='contacto.php'>Scrum Product Owner Certified (SPOC™)</a></li></ul>"
+}
